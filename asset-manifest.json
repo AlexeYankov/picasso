@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/picasso/static/css/main.ea03fc17.css",
+    "main.js": "/picasso/static/js/main.f2f85be8.js",
+    "static/css/304.31696b42.chunk.css": "/picasso/static/css/304.31696b42.chunk.css",
+    "static/js/304.20f5d71e.chunk.js": "/picasso/static/js/304.20f5d71e.chunk.js",
+    "static/css/344.876d2be4.chunk.css": "/picasso/static/css/344.876d2be4.chunk.css",
+    "static/js/344.09d7e206.chunk.js": "/picasso/static/js/344.09d7e206.chunk.js",
+    "static/js/592.4c9b652a.chunk.js": "/picasso/static/js/592.4c9b652a.chunk.js",
+    "static/js/317.981e89ca.chunk.js": "/picasso/static/js/317.981e89ca.chunk.js",
+    "static/js/720.c683d6bf.chunk.js": "/picasso/static/js/720.c683d6bf.chunk.js",
+    "index.html": "/picasso/index.html",
+    "main.ea03fc17.css.map": "/picasso/static/css/main.ea03fc17.css.map",
+    "main.f2f85be8.js.map": "/picasso/static/js/main.f2f85be8.js.map",
+    "304.31696b42.chunk.css.map": "/picasso/static/css/304.31696b42.chunk.css.map",
+    "304.20f5d71e.chunk.js.map": "/picasso/static/js/304.20f5d71e.chunk.js.map",
+    "344.876d2be4.chunk.css.map": "/picasso/static/css/344.876d2be4.chunk.css.map",
+    "344.09d7e206.chunk.js.map": "/picasso/static/js/344.09d7e206.chunk.js.map",
+    "592.4c9b652a.chunk.js.map": "/picasso/static/js/592.4c9b652a.chunk.js.map",
+    "317.981e89ca.chunk.js.map": "/picasso/static/js/317.981e89ca.chunk.js.map",
+    "720.c683d6bf.chunk.js.map": "/picasso/static/js/720.c683d6bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea03fc17.css",
+    "static/js/main.f2f85be8.js"
+  ]
+}
