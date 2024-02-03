@@ -1,0 +1,42 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    padding: 20px;
+    transition: 0.25s;
+
+    gap: 20px;
+
+    div {
+        display: flex;
+        align-items: center;
+
+        gap: 5px;
+
+        strong {
+            text-transform: capitalize;
+        }
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .root {
+        div {
+            strong {
+                width: 280px;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+        }
+    }
+}
+@media screen and (max-width: 480px) {
+    .root {
+        div {
+            strong {
+                width: 180px;
+            }
+        }
+    }
+}
