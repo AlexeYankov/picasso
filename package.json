@@ -1,7 +1,6 @@
 {
   "name": "posts-fsd-app",
   "version": "0.1.2",
-  "homepage": "https://AlexeYankov.github.io/picasso",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
